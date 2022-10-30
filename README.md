@@ -14,3 +14,6 @@ There is also a list of emojis shown, which can be clicked and their meaning is 
 
 [CodeSandbox live link](https://tgpx92.csb.app/)
 
+Home Page:
+![Home page](https://github.com/swapnilbawane/react-emojiv1/blob/main/screenshots/m8-home.png?raw=true)
+
